@@ -1,0 +1,915 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|c:\\users\\phucnguyen\\desktop\\laptrinhmang_ungdungtracnghiem\\laptrinhmang_ungdungtracnghiem\\quanlythitracnghiem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|c:\\users\\phucnguyen\\desktop\\laptrinhmang_ungdungtracnghiem\\laptrinhmang_ungdungtracnghiem\\quanlythitracnghiem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|c:\\users\\phucnguyen\\desktop\\laptrinhmang_ungdungtracnghiem\\laptrinhmang_ungdungtracnghiem\\quanlythitracnghiem\\msgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\msgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\msgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\msgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\msgbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\msgbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\lichsuthi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\lichsuthi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\ketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\ketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\xemketquathichung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\xemketquathichung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlythongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlythongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\dienthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\dienthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\xemketquathichung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\xemketquathichung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlythongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlythongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlycauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlycauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlycauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlycauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlythongtincanhan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlythongtincanhan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\lichsuthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\lichsuthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\lichsuthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\lichsuthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\dienthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\dienthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\ketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\ketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\chatbot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\chatbot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\nguoidung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\nguoidung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanlycauhoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanlycauhoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\ketquathi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\ketquathi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\thi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\thi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\otpverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\otpverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanly.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanly.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\quanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\quanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\quanlythitracnghiem\\resources\\10385702_3684.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{AE2B1200-E7F5-464C-8842-718969CB103F}|QuanLyThiTracNghiem\\UngDungThiTracNghiem.csproj|solutionrelative:quanlythitracnghiem\\resources\\10385702_3684.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuestionForm.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuestionForm.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuestionForm.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuestionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:23:16.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionForm.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuestionForm.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuestionForm.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuestionForm.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuestionForm.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAI0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:21:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nguoidung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Nguoidung.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Nguoidung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:56:34.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nguoidung.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Nguoidung.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Nguoidung.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAkwG0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:59:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\ChatBot.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\ChatBot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:05:21.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Thi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Thi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:41:31.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "msgBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\msgBox.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\msgBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:08:23.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "msgBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\msgBox.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\msgBox.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:08:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "msgBox.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\msgBox.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\msgBox.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\msgBox.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:08:20.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LichSuThi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\LichSuThi.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\LichSuThi.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:08:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thi.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Thi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Thi.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAAAP0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:00:09.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Login.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:26:43.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ketquathi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Ketquathi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Ketquathi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:58:11.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OtpVerification.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\OtpVerification.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\OtpVerification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:02:41.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Quanlythongtincanhan.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:11:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doimatkhau.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:17:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dangky.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dangky.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Dangky.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dangky.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Dangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:45:35.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dangky.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dangky.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Dangky.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dangky.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Dangky.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:18:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Xemketquathichung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Xemketquathichung.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Xemketquathichung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:40:55.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Doimatkhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Doimatkhau.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Doimatkhau.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Doimatkhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:45:30.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dienthongtin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dienthongtin.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Dienthongtin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:52:37.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Xemketquathichung.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Xemketquathichung.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:40:51.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quanlythongtincanhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlythongtincanhan.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlythongtincanhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:09:41.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Login.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Login.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:26:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatBot.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\ChatBot.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\ChatBot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:06:06.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuanLy.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuanLy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:04:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Quanlycauhoi.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawKUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:22:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Quanlycauhoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlycauhoi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlycauhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:41:37.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quanlytaikhoan.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAFUAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:53:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Quanlytaikhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlytaikhoan.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlytaikhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlytaikhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:02:26.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Quanlythongtincanhan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlythongtincanhan.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlythongtincanhan.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlythongtincanhan.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:38:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LichSuThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\LichSuThi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\LichSuThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:38:46.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuanLy.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.cs [Design]",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:03:40.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Program.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Program.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:58:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Username.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Username.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Username.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Username.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Username.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:47:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OtpVerification.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\OtpVerification.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\OtpVerification.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:03:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LichSuThi.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\LichSuThi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\LichSuThi.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\LichSuThi.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAD4v1oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:58:09.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dienthongtin.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Dienthongtin.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:22:20.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\packages.config",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\packages.config",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\packages.config",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-02T12:53:45.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\App.config",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\App.config",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\App.config",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\App.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-28T04:30:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Ketquathi.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Ketquathi.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Ketquathi.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:00:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChatBot.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\ChatBot.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\ChatBot.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\ChatBot.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:11:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Nguoidung.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Nguoidung.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Nguoidung.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Nguoidung.Designer.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwIsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:04:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Quanlycauhoi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Quanlycauhoi.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Quanlycauhoi.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Quanlycauhoi.Designer.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAACcBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:28:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Ketquathi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Ketquathi.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Ketquathi.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Ketquathi.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:49:47.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Thi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Thi.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Thi.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Thi.Designer.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAAwMUBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:19:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OtpVerification.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\OtpVerification.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\OtpVerification.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\OtpVerification.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:03:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "QuanLy.resx",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.resx",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuanLy.resx",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.resx",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuanLy.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-04T07:28:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Thi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Thi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:33:10.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QuanLy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\QuanLy.Designer.cs",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\QuanLy.Designer.cs",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\QuanLy.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAMwGAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:08:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.resx",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Login.resx",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Login.resx",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-03T17:24:50.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Properties\\Resources.resx",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-03T17:10:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Acer\\Downloads\\QuanLyThiTracNghiemSemifinal\\QuanLyThiTracNghiem\\QuanLyThiTracNghiem\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:52:55.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "10385702_3684.jpg",
+              "DocumentMoniker": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Resources\\10385702_3684.jpg",
+              "RelativeDocumentMoniker": "QuanLyThiTracNghiem\\Resources\\10385702_3684.jpg",
+              "ToolTip": "C:\\Users\\PHUCNGUYEN\\Desktop\\LapTrinhMang_UngDungTracNghiem\\LapTrinhMang_UngDungTracNghiem\\QuanLyThiTracNghiem\\Resources\\10385702_3684.jpg",
+              "RelativeToolTip": "QuanLyThiTracNghiem\\Resources\\10385702_3684.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-28T06:24:32.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
